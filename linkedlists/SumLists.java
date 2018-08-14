@@ -1,3 +1,5 @@
+package linkedlists;
+
 public class SumLists {
     public static void main(String[] args) {
         LinkedListNode<Integer> n1 = new LinkedListNode<Integer>(7)

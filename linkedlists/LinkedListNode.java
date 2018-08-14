@@ -1,3 +1,5 @@
+package linkedlists;
+
 public class LinkedListNode<T> {
     public LinkedListNode<T> next = null;
     public T data;

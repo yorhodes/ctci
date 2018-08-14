@@ -1,3 +1,5 @@
+package linkedlists;
+
 public class Partition {
     public static void main(String[] args) {
         LinkedListNode<Integer> head = new LinkedListNode<Integer>(3)
